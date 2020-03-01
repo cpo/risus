@@ -2,7 +2,7 @@
 
 Welcome to Risus: The Anything RPG, a complete pen-and-paper roleplaying game! For some, Risus is a handy “emergency” RPG for spur-of-the-moment one-shots and rapid character creation. For others, it’s a reliable campaign system supporting years of play. For others still, it’s a strange little pamphlet with stick figures. For me, it’s all three, and with this edition, Risus celebrates not only two decades of existence, but two decades of life, bolstered by an enthusiastic global community devoted to expanding it, celebrating it, sharing it, and gaming with it.
 
-Character Creation
+## Character Creation
 
 The character Cliché is the heart of Risus. Clichés are shorthand for a kind of person, implying their skills, background, social role and more. The “character classes” of the oldest RPGs are enduring Clichés: Wizard, Detective, Starpilot, Superspy. You can choose Clichés like those for your character, or devise something more outré, like Ghostly Pirate Cook, Fairy Godmother, Bruce Lee (for a character who does Bruce Lee stuff) or Giant Monster Who Just Wants To Be Loved For His Macrame – anything you can talk your GM into. With a very permissive GM, you could be all these at once. Each Cliché has a rating in dice (the ordinary six-sided kind). When your character’s prowess as a Wizard, Starpilot or Bruce Lee is challenged, roll dice equal to the rating.  Three dice is “professional.” One die is a putz. Six dice is ultimate mastery. A complete Risus character looks like this:
 
