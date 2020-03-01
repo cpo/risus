@@ -1,4 +1,5 @@
 # Risus: The Anything RPG
+## version 2.0.1
 
 Welcome to Risus: The Anything RPG, a complete pen-and-paper roleplaying game! For some, Risus is a handy “emergency” RPG for spur-of-the-moment one-shots and rapid character creation. For others, it’s a reliable campaign system supporting years of play. For others still, it’s a strange little pamphlet with stick figures. For me, it’s all three, and with this edition, Risus celebrates not only two decades of existence, but two decades of life, bolstered by an enthusiastic global community devoted to expanding it, celebrating it, sharing it, and gaming with it.
 
