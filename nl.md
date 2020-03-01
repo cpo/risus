@@ -5,17 +5,11 @@ Welkom bij Risus: De Alles-In-Een RPG, een compleet pen-en-papier rollenspel! Vo
 
 ## Het maken van een karakter (persoon)
 
-Een Karakter cliché is het hart van Risus. Een cliché is een korte naam voor een soort persoon, waarmee je hun vaardigheden,
-achtergrond, sociale plek en meer bepaalt. De karakters uit de oudste RPG's gaan nogal gebukt onder clichés: tovenaar, detective,
-sterren piloot, superspion. 
+Een Karakter cliché is het hart van Risus. Een cliché is een korte naam voor een soort persoon, waarmee je hun vaardigheden, achtergrond, sociale plek en meer bepaalt. De karakters uit de oudste RPG's gaan nogal gebukt onder clichés: tovenaar, detective, sterren piloot, superspion. 
 
-Je kunt clichées kiezen als cliché voor je karakter of iets meer fantasie gebruiken, zoals geestachtige piratenkok, feën 
-grootmoeder, Bruce Lee (voor een karakter dat Bruce Lee dingen doet) of een enorm monster-dat-alleen-maar-geliefd-wil-zijn-voor-zijn-macremee-knoopkunst - 
-alles mag, zolang je je spelleider (de GM of Game Master) er maar van kan overtuigen. Met een erg makkelijk te overtuigen 
-spelleider zou je deze *zelfs allemaal **tegelijk** kunnen spelen*.
+Je kunt de normale clichées kiezen als cliché voor je karakter of iets meer fantasie gebruiken, zoals geestachtige piratenkok, feën grootmoeder, Bruce Lee (voor een karakter dat Bruce Lee-achtige dingen doet) of een enorm monster-dat-alleen-maar-geliefd-wil-zijn-voor-zijn-macremee-knoopkunst - alles mag, zolang je je spelleider (de GM of Game Master) er maar van kan overtuigen. Met een erg makkelijk te overtuigen spelleider zou je deze *zelfs allemaal **tegelijk** kunnen spelen*.
 
-Elk cliché heeft een waardering in dobbelstenen (de normale 6-zijdige dobbelsteen). Als je karakters vermogen als tovenaar, 
-sterrenpiloot of Bruce Lee word uitgedaagd, dan rol je met het aantal dobbelstenen gelijk aan de waardering hiervan. 
+Elk cliché heeft een waardering in dobbelstenen (de normale 6-zijdige dobbelsteen). Als je karakters vermogen als tovenaar, sterrenpiloot of Bruce Lee word uitgedaagd, dan rol je met het aantal dobbelstenen gelijk aan de waardering hiervan. 
 
 Om een idee te geven:
 
@@ -31,8 +25,8 @@ Grolfnar Vainsson de Viking
 
 **Beschrijving:** 
 
-Lang, blong en grijnzend. Hij houdt ervan om te drinken en te vechten en om Viking vrouwen achterna te zitten en 
-om de woeste zee te bevaren en dingen te plunderen. Hij wil fantastische verhalen en sages over hemzelf schrijven.
+Lang, blong en grijnzend. Hij houdt ervan om te drinken en te vechten en om Viking vrouwen achterna te zitten en om de woeste zee te bevaren en dingen te plunderen. Hij wil fantastische verhalen en sages over hemzelf schrijven.
+
 **Clichés:** 
 
 - Viking (4)
@@ -44,13 +38,13 @@ Om Grolfnar te maken, is alles wat we hoeven doen is hem een naam te geven, hem 
 
 Het eerste cliché dat je toewijst (*Viking* in het geval van Grolfnar) is zijn hoofd cliché. Dit is zoals je karakter zichzelf voornamelijk ziet. In het algemeen mogen karakters geen clichés hebben met meer dan vier dobbelstenen, dus in het geval van Grolfnar hierboven is zijn *Viking* dus de maximale vier dobbelstenen.
 
-Je spelleider zou ervoor kunnen kiezen om hiervan af te wijken, dus vraag het even om zeker te zijn.
+Maar let op: je spelleider zou ervoor kunnen kiezen om hiervan af te wijken, dus vraag het even na om zeker te zijn.
 
 ## Powers, Tools, and Power Tools
 
-Each Cliché implies a lot about a character, most crucially including his likely abilities and equipment. If you’re playing a Hirsute Barbarian (3), we can assume your character is comfortable with blades and battle. He’s probably a climber, a runner, and all-night reveler. He probably owns at least one sturdy hand-weapon and (hopefully, mercifully) a complete loincloth. If you’re playing a Psychic Schoolgirl (3), you probably have the power to sense (and be freaked-out by) the psychometric residue lingering at a murder scene, and might own a cute plushy backpack filled with school supplies. If you’re playing a Roguish Space Pirate (3), you can do all kinds of piratey roguey space-things, and you probably own a raygun, and maybe a secondhand star freighter. When there’s any doubt about your character’s abilities or “Tools of the Trade,” discuss it with your GM.
+Elk cliché betekent nogal wat voor je karakter, het meest belangrijke bepaalt dit zijn vaardigheden en uitrusting. Als je een woeste barbaar (3) speelt, dan mogen we aannemen dat je personage bekend is met scherpe dingen en gevechten. Hij is zeer waarschijnlijk een goede klimmer, hardloper en iemand die makkelijk in het donker beweegt. Hij heeft waarschijnlijk in elk geval één stevig handwapen en (hopelijk, in elk geval) een lendendoek om. Als je als telepatisch schoolmeisje speelt, dan heb je het vermogen om de psychometrische restanten aan te voelen op een plek waar een moord gepleegd is (en er ook bang voor te zijn als schoolmeisje zijnde). Je zou een meisjesachtige rugzak kunnen hebben waar je schoolspullen in zitten. Als je een schurkachtige ruimtepiraat speelt, dan kan je allerlei schurkachtige ruimteachtige piratige dingen en heb je waarschijnlijk een straalpistool en misschien wel een tweedehands ruimtevrachttoestel. Wanneer er twijfel is over de vaardigheden van je karakter of zijn hulpmiddelen, bespreek dit dan met je spelleider.
 
-Tools of the Trade come “free” as part of each Cliché, but they’re vulnerable to loss or damage, which can (sometimes) cripple or limit the power of the Cliché. A Roguish Space Pirate, stripped of his star freighter, loses all ability to haul booty to distant suns … while a Psychic Schoolgirl loses none of her ability to be freaked out by murder scenes if her plushy backpack is stolen. A Hirsute Barbarian (3), forced into a pit-fight without his trusty blade, can still rely on his bare hands, but he’ll operate at half-dice – a mere Hirsute Barbarian (2) – until he’s once again properly armed. The backpack-deprived Schoolgirl might face similar penalties when it’s time to do her homework.
+De hulpmiddelen komen gratis bij je cliché, maar ze kunnen natuurlijk wel gevoelig zijn voor verlies of schade, wat soms je karakter nogal kan beperken of hinderen. Een schurkachtige ruimtepiraat zou zonder zijn ruimtevrachttoestel alle mogelijkheden verliezen om buit te verplaatsen naar verre zonnestelsels, terwijl een telepatisch schoolmeisje hierdoor geen van haar vermogens om bang te worden voor een moordplek verliest als zij haar roze rugzakje kwijt is. Een woeste barbaar die gedwongen word een kooigevecht in te stappen zonder zijn trouwe zwaard, zou nog steeds op zijn blote handen kunnen vertrouwen, maar hij zal dan waarschijnlijk met het halve aantal dobbelstenen moeten werken totdat hij weer volledig bewapend is. Het schoolmeisje dat haar rugzakje kwijt is krijgt waarschijnlijk hinder als het tijd is om haar huiswerk te doen.
 
 In the course of adventuring life, lucky explorers may discover enchanted and/or cutting-edge and/or otherwise special equipment. The most basic sort is called Bonus-Dice Gear (such items let you roll an extra die, or more, when using them) but there are other kinds of “special” to be found, in the form of alternate game mechanics (“With this experimental piloting software, you can reroll any 1s”), in-world powers (“Only a Stradivarius can be used to seduce a Vampire Prince”) or even mixed benefits and restrictions (“While wielding the Sword of Mercy, you always roll dice at least equal to your foe, but you must spare his life if you win.”)
 
