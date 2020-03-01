@@ -17,7 +17,11 @@ spelleider zou je deze *zelfs allemaal **tegelijk** kunnen spelen*.
 Elk cliché heeft een waardering in dobbelstenen (de normale 6-zijdige dobbelsteen). Als je karakters vermogen als tovenaar, 
 sterrenpiloot of Bruce Lee word uitgedaagd, dan rol je met het aantal dobbelstenen gelijk aan de waardering hiervan. 
 
-Drie dobbelstenen is "een professional". Een dobbelsteen is een mietje. Zes dobbelstenen is de ultieme meester.
+Om een idee te geven:
+
+- Drie dobbelstenen is "een professional". 
+- Een dobbelsteen is een mietje. 
+- Zes dobbelstenen is een ultieme meester.
 
 Een voorbeeld van een volledig Risus karakter is de volgende:
 
