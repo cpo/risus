@@ -9,7 +9,9 @@ Voor sommigen is Risus een handig "nood RPG" voor spontane rollenspellen en snel
 
 Een Karakter cliché is het hart van Risus. Een cliché is een korte naam voor een soort persoon, waarmee je hun vaardigheden, achtergrond, sociale plek en meer bepaalt. De karakters uit de oudste RPG's gaan nogal gebukt onder clichés: tovenaar, detective, sterren piloot, superspion. 
 
-Je kunt de normale clichées kiezen als cliché voor je karakter of iets meer fantasie gebruiken, zoals geestachtige piratenkok, feën grootmoeder, Bruce Lee (voor een karakter dat Bruce Lee-achtige dingen doet) of een enorm monster-dat-alleen-maar-geliefd-wil-zijn-voor-zijn-macremee-knoopkunst - alles mag, zolang je je spelleider (de GM of Game Master) er maar van kan overtuigen. Met een erg makkelijk te overtuigen spelleider zou je deze *zelfs allemaal **tegelijk** kunnen spelen*.
+Je kunt de normale clichées kiezen als cliché voor je karakter of iets meer fantasie gebruiken, zoals geestachtige piratenkok, feën grootmoeder, Bruce Lee (voor een karakter dat Bruce Lee-achtige dingen doet) of een enorm monster-dat-alleen-maar-geliefd-wil-zijn-voor-zijn-macremee-knoopkunst - alles mag, zolang je je spelleider (de GM of Game Master) er maar van kan overtuigen. 
+
+Met een erg makkelijk te overtuigen spelleider zou je deze *zelfs allemaal **tegelijk** kunnen spelen*.
 
 Elk cliché heeft een waardering in dobbelstenen (de normale 6-zijdige dobbelsteen). Als je karakters vermogen als tovenaar, sterrenpiloot of Bruce Lee word uitgedaagd, dan rol je met het aantal dobbelstenen gelijk aan de waardering hiervan. 
 
@@ -44,27 +46,37 @@ Maar let op: je spelleider zou ervoor kunnen kiezen om hiervan af te wijken, dus
 
 ## Krachten, Hulpmiddelen en Krachtige Hulpmiddelen
 
-Elk cliché betekent nogal wat voor je karakter, het meest belangrijke bepaalt dit zijn vaardigheden en uitrusting. Als je een woeste barbaar (3) speelt, dan mogen we aannemen dat je personage bekend is met scherpe dingen en gevechten. Hij is zeer waarschijnlijk een goede klimmer, hardloper en iemand die makkelijk in het donker beweegt. Hij heeft waarschijnlijk in elk geval één stevig handwapen en (hopelijk, in elk geval) een lendendoek om. Als je als telepatisch schoolmeisje speelt, dan heb je het vermogen om de psychometrische restanten aan te voelen op een plek waar een moord gepleegd is (en er ook bang voor te zijn als schoolmeisje zijnde). Je zou een meisjesachtige rugzak kunnen hebben waar je schoolspullen in zitten. Als je een schurkachtige ruimtepiraat speelt, dan kan je allerlei schurkachtige ruimteachtige piratige dingen en heb je waarschijnlijk een straalpistool en misschien wel een tweedehands ruimtevrachttoestel. Wanneer er twijfel is over de vaardigheden van je karakter of zijn hulpmiddelen, bespreek dit dan met je spelleider.
+Elk cliché betekent nogal wat voor je karakter, het meest belangrijke bepaalt dit zijn vaardigheden en uitrusting. Als je een woeste barbaar (3) speelt, dan mogen we aannemen dat je personage bekend is met scherpe dingen en gevechten. Hij is zeer waarschijnlijk een goede klimmer, hardloper en iemand die makkelijk in het donker beweegt. Hij heeft waarschijnlijk in elk geval één stevig handwapen en (hopelijk, in elk geval) een lendendoek om. 
 
-De hulpmiddelen komen gratis bij je cliché, maar ze kunnen natuurlijk wel gevoelig zijn voor verlies of schade, wat soms je karakter nogal kan beperken of hinderen. Een schurkachtige ruimtepiraat zou zonder zijn ruimtevrachttoestel alle mogelijkheden verliezen om buit te verplaatsen naar verre zonnestelsels, terwijl een telepatisch schoolmeisje hierdoor geen van haar vermogens om bang te worden voor een moordplek verliest als zij haar roze rugzakje kwijt is. Een woeste barbaar die gedwongen word een kooigevecht in te stappen zonder zijn trouwe zwaard, zou nog steeds op zijn blote handen kunnen vertrouwen, maar hij zal dan waarschijnlijk met het halve aantal dobbelstenen moeten werken totdat hij weer volledig bewapend is. Het schoolmeisje dat haar rugzakje kwijt is krijgt waarschijnlijk hinder als het tijd is om haar huiswerk te doen.
+Als je als telepatisch schoolmeisje speelt, dan heb je het vermogen om de psychometrische restanten aan te voelen op een plek waar een moord gepleegd is (en er ook bang voor te zijn als schoolmeisje zijnde). Je zou een meisjesachtige rugzak kunnen hebben waar je schoolspullen in zitten. 
 
-Gedurende het avonturiers leven zouden gelukkige ontdekkers betoverde en/of geavanceerde of anderszins speciale hulpmiddelen tegen kunnen komen. Het meest basale type is de zogenaamde "bonus dobbelsteen" uitrusting (zulke items maken het mogelijk om een of meer extra dobbelstenn te gooien als je ze gebruikt) maar er zijn ook andere speciale dingen in de vorm van afwijkende spel mechanieken ("Met deze experimentele piloot software kan je alle dobbelstenen waarmee je 1 gooit, opnieuw werpen"). Ook kunnen er speciale vermogens zijn in je wereld ("Alleen een Stradivarius viool kan gebruikt worden om de vampierprins te verleiden"). Of er gemengde voor- en nadelen ("Zolang je het Zwaard van Genade vasthoudt, rol je altijd het zelfde aantal dobbelstenen als je vijand, maar je moet zijn leven sparen als je wint").
+Als je een schurkachtige ruimtepiraat speelt, dan kan je allerlei schurkachtige ruimteachtige piratige dingen en heb je waarschijnlijk een straalpistool en misschien wel een tweedehands ruimtevrachttoestel. Wanneer er twijfel is over de vaardigheden van je karakter of zijn hulpmiddelen, bespreek dit dan met je spelleider.
+
+De hulpmiddelen komen gratis bij je cliché, maar ze kunnen natuurlijk wel gevoelig zijn voor verlies of schade, wat soms je karakter nogal kan beperken of hinderen. Een schurkachtige ruimtepiraat zou zonder zijn ruimtevrachttoestel alle mogelijkheden verliezen om buit te verplaatsen naar verre zonnestelsels, terwijl een telepatisch schoolmeisje hierdoor geen van haar vermogens om bang te worden voor een moordplek verliest als zij haar roze rugzakje kwijt is. 
+
+Een woeste barbaar die gedwongen word een kooigevecht in te stappen zonder zijn trouwe zwaard, zou nog steeds op zijn blote handen kunnen vertrouwen, maar hij zal dan waarschijnlijk met het halve aantal dobbelstenen moeten werken totdat hij weer volledig bewapend is. Het schoolmeisje dat haar rugzakje kwijt is krijgt waarschijnlijk hinder als het tijd is om haar huiswerk te doen.
+
+Gedurende het avonturiers leven zouden gelukkige ontdekkers betoverde en/of geavanceerde of anderszins speciale hulpmiddelen tegen kunnen komen. 
+
+Het meest basale type is de zogenaamde "bonus dobbelsteen" uitrusting (zulke items maken het mogelijk om een of meer extra dobbelstenn te gooien als je ze gebruikt) maar er zijn ook andere speciale dingen in de vorm van afwijkende spel mechanieken ("Met deze experimentele piloot software kan je alle dobbelstenen waarmee je 1 gooit, opnieuw werpen"). 
+
+Ook kunnen er speciale vermogens zijn in je wereld ("Alleen een Stradivarius viool kan gebruikt worden om de vampierprins te verleiden"). Of er gemengde voor- en nadelen ("Zolang je het Zwaard van Genade vasthoudt, rol je altijd het zelfde aantal dobbelstenen als je vijand, maar je moet zijn leven sparen als je wint").
 
 ## Het spelsysteem
 
-Whenever anybody wants to do anything, and nobody’s actively opposing it, and the GM doesn’t think success would be automatic, the player rolls dice. If the total rolled beats (equals or exceeds) the Target Number set by the GM, success! If not, failure! Target numbers follow this scale:
+Wanneer iemand iets wil doen en niemand is erop tegen, én de spelleider vind niet dat het succes van deze actie automatisch is, dan gooit die iemand met dobbelstenen. Als het totaal van de dobbelstenen groter of gelijk dan het doel dat de spelleider gesteld heeft, dan heb je succes! Zo niet, dan niet. Doel aantallen volgen deze schaal:
 
 ```
-5: A cinch. A challenge for a schmuck. Routine for a pro.
-10: A challenge for a professional.
-15: An Heroic challenge. For really inventive or tricky stunts.
-20: A challenge for a Master. Nearly superhuman difficulty.
-30: You’ve GOT to be kidding. Actual superhuman difficulty.
+5: Een makkie. Een uitdaging voor een mietje, maar routine voor een pro.
+10: Een uitdaging voor een professional.
+15: Een heroische uitdaging. Voor echte vindingrijke of gevaarlijke stunts.
+20: Een uitdaging voor een meester. Bijna bovenmenselijk moelijk.
+30: Je MOET een geintje met me uithalen. Echt super-onmenselijk moeilijk.
 ```
 
-The Target Number depends on the Cliché, and anyone can try anything. Crossing a chasm by swinging on a rope or vine would be child’s play (automatic success!) for a Swashbuckler or a Lord of the Jungle, easy (Target 5) for a Pulp Archaeologist, and challenging but definitely doable (Target 10) for a Gymnast, Barbarian, or Cat-Burglar. Even a Wheelchair-Bound Eccentric Occultist could try it (Difficulty 15, but the wheelchair is lost unless the roll beats a 30)!
+Het doel aantal hangt af van het cliché, en iedereen kan alles proberen. Een ravijn oversteken door aan een touw of een liaan naar de overkant te slingeren zou kinderspel zijn (automatisch succes!) voor een zwaardvechtende held of een heer van de jungle. Het zou makkelijk (doel: 5) zijn voor een amateur archeoloog, en uitdagend maar zeker doenbaar zijn (doel: 10) voor een gymnast, barbaar of inbreker. Zelfs een rolstoelgebonden excentrieke magier zou het kunnen proberen (doel: 15, maar de rolstoel is hij kwijt behalve als hij 30+ gooit)!
 
-## The Combat System
+## Het gevecht
 
 In Risus, “combat” is any contest in which opponents jockey for position, make attacks, bring defenses to bear, and wear down their opponent to achieve victory. Literally or metaphorically. Examples of “combat” include:
 
