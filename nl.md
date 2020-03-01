@@ -25,10 +25,20 @@ Om een idee te geven:
 
 Een voorbeeld van een volledig Risus karakter is de volgende:
 
-**Grolfnar Vainsson de Viking**
-**Beschrijving:** Lang, blong en grijnzend. Hij houdt ervan om te drinken en te vechten en om Viking vrouwen achterna te zitten en 
+**Naam:**
+
+Grolfnar Vainsson de Viking
+
+**Beschrijving:** 
+
+Lang, blong en grijnzend. Hij houdt ervan om te drinken en te vechten en om Viking vrouwen achterna te zitten en 
 om de woeste zee te bevaren en dingen te plunderen. Hij wil fantastische verhalen en sages over hemzelf schrijven.
-**Clichéss:** Viking (4), Gokker (3), Verleider (2), Dichter (1)
+**Clichés:** 
+
+- Viking (4)
+- Gokker (3) 
+- Verleider (2)
+- Dichter (1)
 
 Om Grolfnar te maken, is alles wat we hoeven doen is hem een naam te geven, hem te omschrijven en om zijn clichés toe te kennen. Je krijgt in totaal *10 dobbelstenen* om aan zijn clichés toe te wijzen. Deze mag je verdelen zoals je zelf wilt (maar meer dan tien zou gek zijn, zeg nu zelf). 
 
