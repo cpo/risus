@@ -42,7 +42,7 @@ Het eerste cliché dat je toewijst (*Viking* in het geval van Grolfnar) is zijn 
 
 Maar let op: je spelleider zou ervoor kunnen kiezen om hiervan af te wijken, dus vraag het even na om zeker te zijn.
 
-## Powers, Tools, and Power Tools
+## Krachten, Hulpmiddelen en Krachtige Hulpmiddelen
 
 Elk cliché betekent nogal wat voor je karakter, het meest belangrijke bepaalt dit zijn vaardigheden en uitrusting. Als je een woeste barbaar (3) speelt, dan mogen we aannemen dat je personage bekend is met scherpe dingen en gevechten. Hij is zeer waarschijnlijk een goede klimmer, hardloper en iemand die makkelijk in het donker beweegt. Hij heeft waarschijnlijk in elk geval één stevig handwapen en (hopelijk, in elk geval) een lendendoek om. Als je als telepatisch schoolmeisje speelt, dan heb je het vermogen om de psychometrische restanten aan te voelen op een plek waar een moord gepleegd is (en er ook bang voor te zijn als schoolmeisje zijnde). Je zou een meisjesachtige rugzak kunnen hebben waar je schoolspullen in zitten. Als je een schurkachtige ruimtepiraat speelt, dan kan je allerlei schurkachtige ruimteachtige piratige dingen en heb je waarschijnlijk een straalpistool en misschien wel een tweedehands ruimtevrachttoestel. Wanneer er twijfel is over de vaardigheden van je karakter of zijn hulpmiddelen, bespreek dit dan met je spelleider.
 
@@ -50,7 +50,7 @@ De hulpmiddelen komen gratis bij je cliché, maar ze kunnen natuurlijk wel gevoe
 
 Gedurende het avonturiers leven zouden gelukkige ontdekkers betoverde en/of geavanceerde of anderszins speciale hulpmiddelen tegen kunnen komen. Het meest basale type is de zogenaamde "bonus dobbelsteen" uitrusting (zulke items maken het mogelijk om een of meer extra dobbelstenn te gooien als je ze gebruikt) maar er zijn ook andere speciale dingen in de vorm van afwijkende spel mechanieken ("Met deze experimentele piloot software kan je alle dobbelstenen waarmee je 1 gooit, opnieuw werpen"). Ook kunnen er speciale vermogens zijn in je wereld ("Alleen een Stradivarius viool kan gebruikt worden om de vampierprins te verleiden"). Of er gemengde voor- en nadelen ("Zolang je het Zwaard van Genade vasthoudt, rol je altijd het zelfde aantal dobbelstenen als je vijand, maar je moet zijn leven sparen als je wint").
 
-## The Game System
+## Het spelsysteem
 
 Whenever anybody wants to do anything, and nobody’s actively opposing it, and the GM doesn’t think success would be automatic, the player rolls dice. If the total rolled beats (equals or exceeds) the Target Number set by the GM, success! If not, failure! Target numbers follow this scale:
 
