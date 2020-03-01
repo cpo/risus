@@ -10,9 +10,9 @@ achtergrond, sociale plek en meer bepaalt. De karakters uit de oudste RPG's gaan
 sterren piloot, superspion. 
 
 Je kunt clichées kiezen als cliché voor je karakter of iets meer fantasie gebruiken, zoals geestachtige piratenkok, feën 
-grootmoeder, Bruce Lee (voor een karakter dat Bruce Lee dingen doet) of een enorm monster-dat-alleen-maar-geliefd-wil-zijn-voor-zijn-macremee-knoopkunst 
-- alles mag, zolang je je spelleider (de GM of Game Master) er maar van kan overtuigen. Met een erg makkelijk te overtuigen 
-spelleider zou je deze zelfs allemaal tegelijk kunnen spelen.
+grootmoeder, Bruce Lee (voor een karakter dat Bruce Lee dingen doet) of een enorm monster-dat-alleen-maar-geliefd-wil-zijn-voor-zijn-macremee-knoopkunst - 
+alles mag, zolang je je spelleider (de GM of Game Master) er maar van kan overtuigen. Met een erg makkelijk te overtuigen 
+spelleider zou je deze *zelfs allemaal **tegelijk** kunnen spelen*.
 
 Elk cliché heeft een waardering in dobbelstenen (de normale 6-zijdige dobbelsteen). Als je karakters vermogen als tovenaar, 
 sterrenpiloot of Bruce Lee word uitgedaagd, dan rol je met het aantal dobbelstenen gelijk aan de waardering hiervan. 
@@ -26,12 +26,11 @@ Een voorbeeld van een volledig Risus karakter is de volgende:
 om de woeste zee te bevaren en dingen te plunderen. Hij wil fantastische verhalen en sages over hemzelf schrijven.
 **Clichéss:** Viking (4), Gokker (3), Verleider (2), Dichter (1)
 
-To create Grolfnar, all we had to do was name him, describe him, and assign his Clichés. You get 10 dice to spend on Clichés, 
-distributed however you like, on as many or few Clichés as you decide (but more than 10 would be odd, considering). The first 
-Cliché listed for your character (“Viking,” in Grolfnar’s case) is his Primary Cliché – the Cliché that most clearly expresses
-how your character sees himself. In general, new characters may not have Clichés rated higher than 4 dice, so Grolfnar’s 
-“Viking” is maxed out for a beginning PC. Your GM might choose to expand, relax, or otherwise transmogrify such parameters 
-for his game (ask if you’re not sure).
+Om Grolfnar te maken, is alles wat we hoeven doen is hem een naam te geven, hem te omschrijven en om zijn clichés toe te kennen. Je krijgt in totaal *10 dobbelstenen* om aan zijn clichés toe te wijzen. Deze mag je verdelen zoals je zelf wilt (maar meer dan tien zou gek zijn, zeg nu zelf). 
+
+Het eerste cliché dat je toewijst (*Viking* in het geval van Grolfnar) is zijn hoofd cliché. Dit is zoals je karakter zichzelf voornamelijk ziet. In het algemeen mogen karakters geen clichés hebben met meer dan vier dobbelstenen, dus in het geval van Grolfnar hierboven is zijn *Viking* dus de maximale vier dobbelstenen.
+
+Je spelleider zou ervoor kunnen kiezen om hiervan af te wijken, dus vraag het even om zeker te zijn.
 
 ## Powers, Tools, and Power Tools
 
