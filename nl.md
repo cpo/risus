@@ -74,7 +74,13 @@ Wanneer iemand iets wil doen en niemand is erop tegen, én de spelleider vind ni
 30: Je MOET een geintje met me uithalen. Echt super-onmenselijk moeilijk.
 ```
 
-Het doel aantal hangt af van het cliché, en iedereen kan alles proberen. Een ravijn oversteken door aan een touw of een liaan naar de overkant te slingeren zou kinderspel zijn (automatisch succes!) voor een zwaardvechtende held of een heer van de jungle. Het zou makkelijk (doel: 5) zijn voor een amateur archeoloog, en uitdagend maar zeker doenbaar zijn (doel: 10) voor een gymnast, barbaar of inbreker. Zelfs een rolstoelgebonden excentrieke magier zou het kunnen proberen (doel: 15, maar de rolstoel is hij kwijt behalve als hij 30+ gooit)!
+Het doel aantal hangt af van het cliché, en iedereen kan alles proberen. 
+
+Een ravijn oversteken door aan een touw of een liaan naar de overkant te slingeren zou kinderspel zijn (automatisch succes!) voor een zwaardvechtende held of een heer van de jungle. 
+
+Het zou makkelijk (doel: 5) zijn voor een amateur archeoloog en uitdagend maar zeker doenbaar zijn (doel: 10) voor een gymnast, barbaar of inbreker. 
+
+Zelfs een rolstoelgebonden excentrieke magier zou het kunnen proberen (doel: 15, maar de rolstoel is hij kwijt, behálve als hij 30 of meer gooit)!
 
 ## Het gevecht
 
