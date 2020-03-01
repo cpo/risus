@@ -6,9 +6,9 @@ Welcome to Risus: The Anything RPG, a complete pen-and-paper roleplaying game! F
 
 The character Cliché is the heart of Risus. Clichés are shorthand for a kind of person, implying their skills, background, social role and more. The “character classes” of the oldest RPGs are enduring Clichés: Wizard, Detective, Starpilot, Superspy. You can choose Clichés like those for your character, or devise something more outré, like Ghostly Pirate Cook, Fairy Godmother, Bruce Lee (for a character who does Bruce Lee stuff) or Giant Monster Who Just Wants To Be Loved For His Macrame – anything you can talk your GM into. With a very permissive GM, you could be all these at once. Each Cliché has a rating in dice (the ordinary six-sided kind). When your character’s prowess as a Wizard, Starpilot or Bruce Lee is challenged, roll dice equal to the rating.  Three dice is “professional.” One die is a putz. Six dice is ultimate mastery. A complete Risus character looks like this:
 
-Grolfnar Vainsson the Viking
-Description: Tall, blond, and grinning. Likes to drink and fight and drink and chase Viking women and fight and sail the high seas and raid. Wants to write great sagas about himself.
-Clichés: Viking (4), Gambler (3), Womanizer (2), Poet (1)
+**Grolfnar Vainsson the Viking**
+**Description:** Tall, blond, and grinning. Likes to drink and fight and drink and chase Viking women and fight and sail the high seas and raid. Wants to write great sagas about himself.
+**Clichés:** Viking (4), Gambler (3), Womanizer (2), Poet (1)
 
 To create Grolfnar, all we had to do was name him, describe him, and assign his Clichés. You get 10 dice to spend on Clichés, distributed however you like, on as many or few Clichés as you decide (but more than 10 would be odd, considering). The first Cliché listed for your character (“Viking,” in Grolfnar’s case) is his Primary Cliché – the Cliché that most clearly expresses how your character sees himself. In general, new characters may not have Clichés rated higher than 4 dice, so Grolfnar’s “Viking” is maxed out for a beginning PC. Your GM might choose to expand, relax, or otherwise transmogrify such parameters for his game (ask if you’re not sure).
 
@@ -24,11 +24,13 @@ In the course of adventuring life, lucky explorers may discover enchanted and/or
 
 Whenever anybody wants to do anything, and nobody’s actively opposing it, and the GM doesn’t think success would be automatic, the player rolls dice. If the total rolled beats (equals or exceeds) the Target Number set by the GM, success! If not, failure! Target numbers follow this scale:
 
+```
 5: A cinch. A challenge for a schmuck. Routine for a pro.
 10: A challenge for a professional.
 15: An Heroic challenge. For really inventive or tricky stunts.
 20: A challenge for a Master. Nearly superhuman difficulty.
 30: You’ve GOT to be kidding. Actual superhuman difficulty.
+```
 
 The Target Number depends on the Cliché, and anyone can try anything. Crossing a chasm by swinging on a rope or vine would be child’s play (automatic success!) for a Swashbuckler or a Lord of the Jungle, easy (Target 5) for a Pulp Archaeologist, and challenging but definitely doable (Target 10) for a Gymnast, Barbarian, or Cat-Burglar. Even a Wheelchair-Bound Eccentric Occultist could try it (Difficulty 15, but the wheelchair is lost unless the roll beats a 30)!
 
