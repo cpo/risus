@@ -12,7 +12,7 @@ Clichés: Viking (4), Gambler (3), Womanizer (2), Poet (1)
 
 To create Grolfnar, all we had to do was name him, describe him, and assign his Clichés. You get 10 dice to spend on Clichés, distributed however you like, on as many or few Clichés as you decide (but more than 10 would be odd, considering). The first Cliché listed for your character (“Viking,” in Grolfnar’s case) is his Primary Cliché – the Cliché that most clearly expresses how your character sees himself. In general, new characters may not have Clichés rated higher than 4 dice, so Grolfnar’s “Viking” is maxed out for a beginning PC. Your GM might choose to expand, relax, or otherwise transmogrify such parameters for his game (ask if you’re not sure).
 
-Powers, Tools, and Power Tools
+## Powers, Tools, and Power Tools
 
 Each Cliché implies a lot about a character, most crucially including his likely abilities and equipment. If you’re playing a Hirsute Barbarian (3), we can assume your character is comfortable with blades and battle. He’s probably a climber, a runner, and all-night reveler. He probably owns at least one sturdy hand-weapon and (hopefully, mercifully) a complete loincloth. If you’re playing a Psychic Schoolgirl (3), you probably have the power to sense (and be freaked-out by) the psychometric residue lingering at a murder scene, and might own a cute plushy backpack filled with school supplies. If you’re playing a Roguish Space Pirate (3), you can do all kinds of piratey roguey space-things, and you probably own a raygun, and maybe a secondhand star freighter. When there’s any doubt about your character’s abilities or “Tools of the Trade,” discuss it with your GM.
 
@@ -20,7 +20,7 @@ Tools of the Trade come “free” as part of each Cliché, but they’re vulner
 
 In the course of adventuring life, lucky explorers may discover enchanted and/or cutting-edge and/or otherwise special equipment. The most basic sort is called Bonus-Dice Gear (such items let you roll an extra die, or more, when using them) but there are other kinds of “special” to be found, in the form of alternate game mechanics (“With this experimental piloting software, you can reroll any 1s”), in-world powers (“Only a Stradivarius can be used to seduce a Vampire Prince”) or even mixed benefits and restrictions (“While wielding the Sword of Mercy, you always roll dice at least equal to your foe, but you must spare his life if you win.”)
 
-The Game System
+## The Game System
 
 Whenever anybody wants to do anything, and nobody’s actively opposing it, and the GM doesn’t think success would be automatic, the player rolls dice. If the total rolled beats (equals or exceeds) the Target Number set by the GM, success! If not, failure! Target numbers follow this scale:
 
@@ -32,7 +32,7 @@ Whenever anybody wants to do anything, and nobody’s actively opposing it, and 
 
 The Target Number depends on the Cliché, and anyone can try anything. Crossing a chasm by swinging on a rope or vine would be child’s play (automatic success!) for a Swashbuckler or a Lord of the Jungle, easy (Target 5) for a Pulp Archaeologist, and challenging but definitely doable (Target 10) for a Gymnast, Barbarian, or Cat-Burglar. Even a Wheelchair-Bound Eccentric Occultist could try it (Difficulty 15, but the wheelchair is lost unless the roll beats a 30)!
 
-The Combat System
+## The Combat System
 
 In Risus, “combat” is any contest in which opponents jockey for position, make attacks, bring defenses to bear, and wear down their opponent to achieve victory. Literally or metaphorically. Examples of “combat” include:
 
@@ -58,7 +58,7 @@ Dice lost in combat are regained when the combat ends, at a healing rate determi
 
 There’s no standard time or distance scale in Risus; everything depends on context. In a physical brawl, each round might represent just a few seconds … while in a long-term fight between a married couple, each round might represent an entire day (Day One: Husband “accidentally” burns Wife’s favorite dress in the oven, Wife “accidentally” feeds Drano to Husband’s prize goldfish, and so on).
 
-Inappropriate Clichés
+## Inappropriate Clichés
 
 As stated above, the GM determines what sort of Clichés are appropriate for the fight. Any Clichés left over are inappropriate. In a physical fight, Hairdresser is inappropriate. In a magical duel, Barbarian is inappropriate. 
 
@@ -68,7 +68,7 @@ All combat rules apply normally, with one exception: if an inappropriate Cliché
 
 When in doubt, assume the aggressor determines the type of combat. If a wizard attacks a barbarian with magic, then it’s a magical duel! If the barbarian attacks the mage with his sword, then it’s physical combat! If the defender can come up with an entertaining use of his skills, he’ll have the edge. It pays in many genres to be the defender! But … if the wizard and barbarian both obviously want to fight, then both are aggressors, and it’s “fantasy combat,” where both swords and sorcery have equal footing.
 
-Teaming Up
+## Teaming Up
 
 Two or more characters may form a team in combat. For the duration of the team (usually the entire fight), they battle as a single unit, and may only be attacked as a single foe. There are two kinds of team: full-on Character Teams (for PCs, and sufficiently interesting NPCs) and Grunt-Squads (for nameless NPC hordes).
 
@@ -86,25 +86,25 @@ Disbanding: A team may voluntarily disband at any time between die-rolls. When d
 
 Lost Leader: If the Team Leader ever leaves the team for any reason (either by dropping out or having his own Cliché dropped to zero), the team must disband immediately, with consequences as above. They may immediately opt to reform as a new team (with a new leader) however, and if the old leader was removed by having volunteered for personal damage, the new Team Leader gets the double-roll vengeance bonus to avenge his predecessor!
 
-Single-Action Conflicts
+## Single-Action Conflicts
 
 “Combat” depends on multi-round jockeying and wearing each other down … but many conflicts are too sudden to be played that way (two characters grabbing for the same gun, for example). Such “Single-Action Conflicts” (SACs) are settled with a single roll against appropriate Clichés (or inappropriate Clichés, with good roleplaying). High roll wins. Note that, in nearly any case, the Game Master may jump between the three resolution methods (Target Number, Combat, Single-Action Conflict) to suit the pacing and mood. Sometimes, an arm-wrestling match works best as a combat … sometimes it works best as a Single-Action Conflict, and sometimes (preferably if it’s against some kind of coin-operated arm-wrestling machine) even as a simple Target Number.
 
-When Somebody Can’t Participate
+## When Somebody Can’t Participate
 
 Sometimes, characters find themselves facing a Combat or Single-Action Conflict where they simply have no applicable Cliché, even by stretching the imagination. Perhaps one character in the party enters a pie-eating contest with his Disgusting Glutton (2) Cliché, but the rest of the characters are astronauts or accountants, neither of whom traditionally engorge themselves on pie. In situations like this, the GM might grant everybody two free “brevet dice” to play with for the duration of the conflict. This means the Disgusting Glutton (2) would become, temporarily, a Disgusting Glutton (4), while everyone else would get a Regular Person Talked Into a Pie-Eating Contest (2) Cliché “on loan” until the last crumb burps forth. The Glutton, naturally, retains his winning edge, but everyone else can still bury their noses in pie. This rule applies only to Combats and SACs, never to rolls against Target Numbers (since, with Target Numbers, the TN itself simply moves wherever it needs to, for any Cliché attempting any action).
 
-Advanced Option: Lucky Shots
+# Advanced Option: Lucky Shots
 
 This option allows players to spend some of their 10 starting dice on something other than Clichés. A single Cliché-die can, instead, buy three Lucky Shots (spend two dice for six Lucky Shots, and so on). Using a Lucky Shot boosts any Cliché roll by a single die, for a single die-roll. Lucky Shots “reset” between game-sessions. Lucky Shots can represent random good luck, the favor of a deity, a streak of resourcefulness, etc.
 
-Advanced Option: Hooks & Tales
+# Advanced Option: Hooks & Tales
 
 With this Advanced Option, players can bargain for extra character-creation dice by giving their character a Hook and/or a Tale. A Hook is some significant character flaw – a curse, an obsession, a weakness, a sworn vow, a permanently crippling injury – that the GM agrees is so juicy that he can use it to make the character’s life more interesting (which usually means less pleasant). A character with a Hook gets an extra die to play with.
 
 A Tale is a written “biography” of the character describing his life before the events of the game. The Tale needn’t be long (a page or two is plenty); it just needs to tell the reader where the character is coming from, what he likes and dislikes, how he became who he is, what his motives are. Some Tales are best written from the player’s omniscient perspective; others are more fun if written as excerpts from the character’s own diary. A character with a Tale provided before gameplay begins gets an extra die to play with.
 
-Advanced Option: Pumps
+# Advanced Option: Pumps
 
 Characters may pump their Clichés, expending extra effort at the cost of certain injury (loss of dice). A pumped Cliché receives a dice-boost lasting a single round of combat (or single significant roll, otherwise). After that round or roll is resolved, the Cliché returns to normal, then suffers immediate dice-loss equal to the boost. Such loss is comparable to combat losses, and must heal.
 
@@ -116,7 +116,7 @@ Pumps are legal for any kind of Cliché roll, provided the GM agrees that “pus
 
 Double-Pump Clichés: If permitting pumps, the GM might also allow double-pump Clichés, which take only “half damage” from pumping. Thus, a Sorcerer [5] could roll eleven dice for a single combat round (six extra dice!) but take only three dice of loss from the extra effort. Double-pump Clichés cost twice as many dice to buy during character creation, and are especially appropriate for Clichés representing supernatural abilities (in fact, some Game Masters may require that supernatural Clichés be purchased this way). The use of [square brackets] instead of (parentheses) indicates a double-pump Cliché.
 
-Advanced Option: Character Advancement
+# Advanced Option: Character Advancement
 
 At the end of each adventure, each player rolls against each Cliché challenged during the course of play (ignore lingering “injuries” for this purpose; roll as if the Cliché were whole). If the dice land showing only even numbers, the Cliché advances by a single die (increasing it permanently). No Cliché advances past Cliché (6).
 
@@ -126,7 +126,7 @@ Adding New Clichés: There may come a time when a character has grown and mature
 
 Long-Haul Variant: Instead of rolling against every challenged Cliché, roll against a single Cliché of your choice.
 
-Credit Where It’s Due
+# Credit Where It’s Due
 
 Risus grew from inspirations provided by the sadly out-of-print classic, Ghostbusters (1st Edition, West End Games), sparked against an idea from Mayfair’s DC Heroes. Other noteworthy influences have included GURPS, TWERPS, Fudge, Tunnels & Trolls, Over the Edge, and DragonQuest. The list of people on whom Risus depends is too long to even contemplate in a space so tiny, but I’d be remiss if I didn’t mention a few of them: Guy Hoyle, Spike Y. Jones, Dan “Moose” Jasman, Frank J. Perricone, Jason Puckett, David Pulver, Sean “Dr. Kromm” Punch, Liz Rich, Dan Suptic, Brent Wolke, René Vernon, and the thousands of cool gamers, old and new, who’ve populated and enlivened the Risus community.
 
