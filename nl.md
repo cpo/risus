@@ -1,7 +1,9 @@
 # Risus: De Alles-In-Een RPG
 ## versie 2.0.1
 
-Welkom bij Risus: De Alles-In-Een RPG, een compleet pen-en-papier rollenspel! Voor sommigen is Risus een handig "nood RPG" voor spontane rollenspellen en snelle karakter creatie. Voor anderen is het een betrouwbaar campagne rollenspel dat jarenlang spelplezier geeft. Voor weer anderen is het een raar klein blaadje met stokfiguurtjes (zie origineel!). Voor mij is het alledrie, en met deze versie viert Risus niet alleen 20+ jaar van bestaan maar ook 20+ jaar van leven, ondersteund door een enthousiaste, mondiale community die het uitbreiden, delen en ermee spelen.
+Welkom bij Risus: De Alles-In-Een RPG, een compleet pen-en-papier rollenspel! 
+
+Voor sommigen is Risus een handig "nood RPG" voor spontane rollenspellen en snelle karakter creatie. Voor anderen is het een betrouwbaar campagne rollenspel dat jarenlang spelplezier geeft. Voor weer anderen is het een raar klein blaadje met stokfiguurtjes (zie origineel!). Voor mij is het alledrie, en met deze versie viert Risus niet alleen 20+ jaar van bestaan maar ook 20+ jaar van leven, ondersteund door een enthousiaste, mondiale community die het uitbreiden, delen en ermee spelen.
 
 ## Het maken van een karakter (persoon)
 
