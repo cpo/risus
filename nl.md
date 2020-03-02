@@ -84,35 +84,43 @@ Zelfs een rolstoelgebonden excentrieke magier zou het kunnen proberen (doel: 15,
 
 ## Het gevecht
 
-In Risus, “combat” is any contest in which opponents jockey for position, make attacks, bring defenses to bear, and wear down their opponent to achieve victory. Literally or metaphorically. Examples of “combat” include:
+In Risus, een "gevecht" is elke strijd waarbij tegenstanders elkaar berivaliseren om een positie, elkaar aanvallen, verdedigingen in stelling brengen en hun tegenstander proberen af te matten om de overwinning te behalen. En dat op een letterlijke of figuurlijke manier. 
 
-Arguments: Combatants wielding logic, stubbornness and cheap rhetorical tricks to make their point.
-Horse-Racing: People on horses running around a dirty track, trying to get nowhere first.
-Dogfights: Pilots in airplanes or spaceships trying to blow each other out of the sky.
-Astral/Psychic Duels: Mystics/psionics looking bored or sleepy, but trying to rip each other’s ego apart in the Otherworld.
-Wizard’s Duels: Sorcerers using strange magics, trying to outdo one another.
-Dueling Banjos: Banjo players using strange melodies, trying to outdo one another.
-Seduction: One (or more) characters trying to score with one (or more) other character(s) who is(are) trying to resist.
-Courtroom Antics: Prosecution vs. Defense. The goal is victory. Justice is incidental.
-Actual Regular Combat: People trying to injure or kill each other.
+Voorbeelden van een gevecht zijn:
 
-The GM decides when a combat has begun. At that point, go around the table in rounds, and let each combatant make an attack in turn. What constitutes an “attack” depends on the nature of the fight, but it should always be roleplayed (if dialogue is involved) or described in entertaining detail (if it’s physical and/or dangerous and/or does/should involve contraceptives). The GM will determine what type of Cliché is appropriate for the fight. In a straightforward physical brawl, Clichés like Viking, Soldier, Swashbuckler, and Ernest Hemingway are equally appropriate, while Clichés like Hairdresser and Latin Lover are not.
+- Argumenten: de kemphanen gebruiken logica, eigenwijsheid en goedkope rhetorische truuks om hun gelijk te behalen.
+- Paardenracen: mensen op paarden rennen rondjes om een vieze renbaan, om nergens als eerste te bereiken.
+- Luchtgevechten: Piloten in vliegtuigen of ruimteschepen proberen elkaar uit de lucht te knallen.
+- Psychische gevechten: Mystici en telepatisten zien er misschien verveeld of slaperig uit, maar ondertussen proberen ze elkaars ego uit elkaar te trekken in de Andere Wereld.
+- Tovenaars duels: tovenaars gebruiken vreemde magie en proberen elkaar hiermee te overtroeven.
+- Duellerende banjo's: banjo spelers die vreemde melodieeen gebruiken om elkaar de loef af te steken.
+- Verleiding: een (of meer) personages die een wit voetje bij een ander persoon proberen te halen, die hier weerstand tegen bieden.
+- Rechtspraak: verdediging versus de aanklager. Het doel is overwinning, eerlijke rechtspraak is een toeval.
+- Normale gevechten: mensen die elkaar proberen uit te moorden.
 
-Attacks must be directed at an opponent. Both parties in the attack (attacker and defender) roll against their chosen Cliché. Low roll loses. Specifically, the low roller loses one of his Cliché dice for the remainder of the fight – he’s been weakened, worn down, demoralized or otherwise pushed one step towards defeat.
+De spelleider beslist wanneer een gevecht begonnen is. Op dat moment word er de tafel rondgegaan in rondes, waarbij elke deelnemer om de beurt een aanval kan uitvoeren. Wat nu precies een "aanval" is hangt natuurlijk af van het karakter van een gesprek, maar het moet altijd via een rollenspel worden uitgevoerd (als er dialoog bij komt kijken). Of het moet worden beschreven op een vermakelijke manier (als het fysiek, of gevaarlijk is, of als er voorbehoedmiddelen gebruikt moet/zouden moeten worden).
 
-Eventually, one side will be left standing, and another will be left without dice. At this point, the winners decide the fate of the losers. In a physical fight or magical duel, the losers might be killed (or mercifully spared). In Courtroom Antics, the loser is sentenced by the judge, or fails to prosecute. In a Seduction, the loser gets either a cold shower or a warm evening, depending. While the GM will reject combat outcomes that make no sense in context (if you beat someone at tennis, you aren’t normally allowed to decapitate them and drag their corpse through the city square), the spoils of victory are otherwise down to the choice of the victor.
+De spelleider bepaalt welk soort cliché toepasselijk is voor het gevecht. In een normale partij fysiek mepwerk, clichés als Viking, Soldaat, Musketier en Ernest Hemingway zijn even geldig, terwijl clichés als Kapper en Latijnse Lover dit niet zijn.
 
-You needn’t use the same Cliché every round. If a Viking/Swashbuckler wants to lop heads one round, and switch to swinging on chandeliers the next, that’s groovy, too. However, anytime a character has a Cliché worn down to zero dice in combat, he’s been defeated, even if he has other Clichés left to play with.
+Aanvallen moeten aan een tegenstander worden geritcht. Beide partijen in de aanval (aanvaller en verdediger) werpen met hun gekozen clichés. De laagste score verliest de aanval. Nog specifieker verliest de lage worp een van zijn cliché dobbelstelen voor het restant van het gevecht - hij is verzwakt, afgemat, verliest moraal of word op een andere manier richting verlies geduwt.
 
-Dice lost in combat are regained when the combat ends, at a healing rate determined by the GM (based on the nature of the attacks involved). If the combat was in vehicles (space fighters, mecha, wooden sailing ships) then the vehicles themselves are likely damaged, too, and must be repaired. Sometimes, healing takes not only time, but conditions specified by the GM (“now that you’ve been soundly defeated, you can’t even look at your banjo until your girlfriend assuages your ego”).
+Uiteindelijk zal een partij overblijven en de andere zal zonder dobbelstenen overblijven. Op dat moment bepaalt de winnaar wat er met de verliezer moet gebeuren. In een fysiek gevecht of een magisch duel, zal de verliezer gedood worden (of genadevol gespaard worden). In de rechtspraak, zal de verliezer worden veroordeeld door de rechter, of zal juist worden vrijgesproken als deze wint. In een Verleiding, krijgt de verliezer een koude douche of een warme avond als hij wint. 
 
-There’s no standard time or distance scale in Risus; everything depends on context. In a physical brawl, each round might represent just a few seconds … while in a long-term fight between a married couple, each round might represent an entire day (Day One: Husband “accidentally” burns Wife’s favorite dress in the oven, Wife “accidentally” feeds Drano to Husband’s prize goldfish, and so on).
+Terwijl de spelleider de uitkomst van een gevecht zal afwijzen als deze niet past in de context van het verhaal (als je iemand verslaat met een potje tennis, dan is het normaal gesproken niet toegestaan om de verliezer te onthoofden om daarna hun lichaam over het tennisveld rond te slepen). Anders dan dat is de beloning van de winst aan de keuze van de winnaar.  
 
-## Inappropriate Clichés
+Je hoeft niet elke ronde hetzelfde cliché te gebruiken. Als een Viking of Musketier de ene ronde hoofden eraf wil wippen en de volgende ronde aan een plafonnier wil slingeren dan is dat natuurlijk ook hartstikke vet. Maar, als een karakter een cliché heeft uitgeput in de strijd dan is hij verslagen, zelfs als hij nog andere clichés heeft om mee verder te spelen. 
 
-As stated above, the GM determines what sort of Clichés are appropriate for the fight. Any Clichés left over are inappropriate. In a physical fight, Hairdresser is inappropriate. In a magical duel, Barbarian is inappropriate. 
+Dobbelstenen die in de strijd verloren gaan, worden teruggekregen als de strijd beeindigd is, tegen een door de spelleider bepaald tempo (gebaseerd op de soort aanvallen die er uitgevoerd zijn). Als de strijd in voertuigen plaatsvond (sterrenjagers, auto's of houten zeilschepen) dan zijn de voertuigen zelf waarschijnlijk ook beschadigd en moeten gerepareerd worden.
 
-Inappropriate Clichés aren’t forbidden from the fight. They can still be used to make attacks, provided the player roleplays or describes it in a really, really, really entertaining manner. Furthermore, the attack must be plausible within the context of the combat, and the genre and tone that the GM has set for the game (making this kind of attack more often useful in very pulpy/swashbuckly games, or very silly ones).
+Soms kost het niet alleen tijd om een reparatie uit te voeren, maar zijn er ook extra zaken die door de spelleider aangewezen worden ("nu dat je echt verslagen bent, kun je niet meer naar je banjo kijken zonder dat je vriending je ego weer verzacht").
+
+Er is geen standaard voor een tijd- of afstandsschaal in Risus; alles hangt af van de context. In een fysieke matpartij zou elke ronde een paar seconden kunnen zijn, terwijl in een lange termijn gevecht tussen twee getrouwde mensen elke ronde een hele dag kan zijn (dag 1: de man verbrandt "per ongeluk" de favoriete jurk van zijn vrouw in de oven, de vrouw voert "per ongeluk" gootsteen ontstopper aan de geliefde goudvissen van haar man, enzovoort)
+
+## Ongepaste clichés
+
+Zols hierboven uitgelegd, bepaalt de spelleider welk soort clichées passen in het gevevht. Alle andere clichées zijn ongepast. In een fysiek gevecht, Kapper is ongepast. In een magisch duel, Barbaar is ongepast.
+
+Ongepaste clichées zijn niet verboden in de strijd. Ze kunnen nog steeds gebruikt worden om aanvallen uit te voeren, zolang de speler dit in verhalende vorm (role playend) of in een heel, heel, heel vermakelijke vorm vertelt. Wel moet de aanval binnen de context van het strijd en het genre en de toonzetting passen die de spelleider voor het spel uitgestippeld heeft. Hierdoor kan dit soort aanval vaak toch nuttig zijn in een heel ranzige of musketierachtige potjes, of gewoon heel malle potjes.
 
 All combat rules apply normally, with one exception: if an inappropriate Cliché wins a combat round versus an appropriate one, the losing player loses three dice, rather than one, from his Cliché! The “inappropriate” player takes no such risk, and loses only one die if he loses the round. Thus, a creative hairdresser is dangerous when cornered and attacked unfairly. Beware.
 
