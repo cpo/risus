@@ -118,7 +118,7 @@ Er is geen standaard voor een tijd- of afstandsschaal in Risus; alles hangt af v
 
 ## Ongepaste clichés
 
-Zols hierboven uitgelegd, bepaalt de spelleider welk soort clichées passen in het gevevht. Alle andere clichées zijn ongepast. In een fysiek gevecht, Kapper is ongepast. In een magisch duel, Barbaar is ongepast.
+Zols hierboven uitgelegd, bepaalt de spelleider welk soort clichées passen in het gevecht. Alle andere clichées zijn ongepast. In een fysiek gevecht, Kapper is ongepast. In een magisch duel, Barbaar is ongepast.
 
 Ongepaste clichées zijn niet verboden in de strijd. Ze kunnen nog steeds gebruikt worden om aanvallen uit te voeren, zolang de speler dit in verhalende vorm (role playend) of in een heel, heel, heel vermakelijke vorm vertelt. Wel moet de aanval binnen de context van het strijd en het genre en de toonzetting passen die de spelleider voor het spel uitgestippeld heeft. Hierdoor kan dit soort aanval vaak toch nuttig zijn in heel ranzige of musketierachtige potjes, of in potjes die gewoon mal zijn.
 
@@ -126,7 +126,7 @@ Alle regels rond het gevecht worden normaal toegepast, met èèn uitzondering: a
 
 Als er twijfel is, neem dan aan dat degene die het gevecht begint, het type gevecht bepaalt. Als een Tovenaar een Barbaar aanvalt met magie, dan is het een magisch duel! ALs de Barbaar de Tovenaar aanvalt met zijn zwaard, dan is het een fysiek gevecht! Als de verdediger met een vermakelijk gebruik van zijn vaardigheden kan komen, dan heeft hij het voordeel. Het kan dus lonen in veel genres om de verdediger te zijn! Maar - als de Tovenaar en de Barbaar allebei overduidelijk willen vechten, dan zijn ze beiden de agressor en dan is het een "fantasie gevecht", waar zowel zwaard als magie gelijk opgaan.
 
-## Teaming Up
+## Teams maken
 
 Two or more characters may form a team in combat. For the duration of the team (usually the entire fight), they battle as a single unit, and may only be attacked as a single foe. There are two kinds of team: full-on Character Teams (for PCs, and sufficiently interesting NPCs) and Grunt-Squads (for nameless NPC hordes).
 
