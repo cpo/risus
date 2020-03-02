@@ -112,7 +112,7 @@ Je hoeft niet elke ronde hetzelfde cliché te gebruiken. Als een Viking of Muske
 
 Dobbelstenen die in de strijd verloren gaan, worden teruggekregen als de strijd beeindigd is, tegen een door de spelleider bepaald tempo (gebaseerd op de soort aanvallen die er uitgevoerd zijn). Als de strijd in voertuigen plaatsvond (sterrenjagers, auto's of houten zeilschepen) dan zijn de voertuigen zelf waarschijnlijk ook beschadigd en moeten gerepareerd worden.
 
-Soms kost het niet alleen tijd om een reparatie uit te voeren, maar zijn er ook extra zaken die door de spelleider aangewezen worden ("nu dat je echt verslagen bent, kun je niet meer naar je banjo kijken zonder dat je vriending je ego weer verzacht").
+Soms kost het niet alleen tijd om een reparatie uit te voeren, maar zijn er ook extra zaken die door de spelleider aangewezen worden ("nu dat je echt verslagen bent, kun je niet meer naar je banjo kijken zonder dat je vriendin je ego weer wat opkrikt").
 
 Er is geen standaard voor een tijd- of afstandsschaal in Risus; alles hangt af van de context. In een fysieke matpartij zou elke ronde een paar seconden kunnen zijn, terwijl in een lange termijn gevecht tussen twee getrouwde mensen elke ronde een hele dag kan zijn (dag 1: de man verbrandt "per ongeluk" de favoriete jurk van zijn vrouw in de oven, de vrouw voert "per ongeluk" gootsteen ontstopper aan de geliefde goudvissen van haar man, enzovoort)
 
