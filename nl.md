@@ -120,7 +120,7 @@ Er is geen standaard voor een tijd- of afstandsschaal in Risus; alles hangt af v
 
 Zols hierboven uitgelegd, bepaalt de spelleider welk soort clichées passen in het gevevht. Alle andere clichées zijn ongepast. In een fysiek gevecht, Kapper is ongepast. In een magisch duel, Barbaar is ongepast.
 
-Ongepaste clichées zijn niet verboden in de strijd. Ze kunnen nog steeds gebruikt worden om aanvallen uit te voeren, zolang de speler dit in verhalende vorm (role playend) of in een heel, heel, heel vermakelijke vorm vertelt. Wel moet de aanval binnen de context van het strijd en het genre en de toonzetting passen die de spelleider voor het spel uitgestippeld heeft. Hierdoor kan dit soort aanval vaak toch nuttig zijn in een heel ranzige of musketierachtige potjes, of gewoon heel malle potjes.
+Ongepaste clichées zijn niet verboden in de strijd. Ze kunnen nog steeds gebruikt worden om aanvallen uit te voeren, zolang de speler dit in verhalende vorm (role playend) of in een heel, heel, heel vermakelijke vorm vertelt. Wel moet de aanval binnen de context van het strijd en het genre en de toonzetting passen die de spelleider voor het spel uitgestippeld heeft. Hierdoor kan dit soort aanval vaak toch nuttig zijn in heel ranzige of musketierachtige potjes, of in potjes die gewoon mal zijn.
 
 All combat rules apply normally, with one exception: if an inappropriate Cliché wins a combat round versus an appropriate one, the losing player loses three dice, rather than one, from his Cliché! The “inappropriate” player takes no such risk, and loses only one die if he loses the round. Thus, a creative hairdresser is dangerous when cornered and attacked unfairly. Beware.
 
